@@ -1,0 +1,14 @@
+{
+  "author": "IQumulus LLC",
+  "name": "graphiq",
+  "description": "Thin SVG wrapper",
+  "version": "0.0.1",
+  "license":"FreeBSD",
+  "private":true,
+  "bin": {
+    "bake":"bin/bake.js"
+  },
+  "dependencies": {
+    "uglify-js": "2.4.0"
+  }
+}

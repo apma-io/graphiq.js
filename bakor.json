@@ -1,0 +1,13 @@
+{
+  "name": "graphiq",
+  "outputDir": "./build",  
+
+  "js": [
+    "src/graphiq.js",
+    "src/giq.events.js",
+    "src/giq.canvas.js",
+    "src/giq.element.js"
+  ],
+  "css": [],
+  "less": []
+}
